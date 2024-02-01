@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zxx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: fixed-sticky-widget.php:46
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: fixed-sticky-widget.php:63
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: fixed-sticky-widget.php:68
+msgid "Plugin Active"
+msgstr "Eklentiyi Etkinleştir"
+
+#: fixed-sticky-widget.php:72
+msgid "Widget Selector"
+msgstr "Araç Öğesi"
+
+#: fixed-sticky-widget.php:74
+msgid ""
+"Enter the HTML element selector for the widget to be fixed (e.g., \".my-"
+"widget\". Only one element is accepted)."
+msgstr ""
+"Sabitlenecek araç için HTML öğe seçicisini girin (örneğin, \".sabitlenecek-"
+"aracim\". Yalnızca bir öğe kabul edilir)."
+
+#: fixed-sticky-widget.php:78
+msgid "Stopper Selector"
+msgstr "Durdurucu Öğesi"
+
+#: fixed-sticky-widget.php:80
+msgid ""
+"Enter the HTML element selector for the page footer or stopper. The stop "
+"elements will push sticky elements up as soon as they reach them while "
+"scrolling. (e.g., \"#footer\". Only one element is accepted)."
+msgstr ""
+"Sayfa altbilgisi veya durdurucu için HTML öğesini girin. Durdurucu öğeler, "
+"kaydırma sırasında yapışkan araçları sayfa altbilgisi veya durdurucuya "
+"ulaşır ulaşmaz yukarı itecektir. (örneğin, \"#footer\". Yalnızca bir öğe "
+"kabul edilir)."
+
+#: fixed-sticky-widget.php:84
+msgid "Top Padding"
+msgstr "Üst Dolgu"
+
+#: fixed-sticky-widget.php:86
+msgid ""
+"Set the top padding in pixels when the widget is fixed. The distance fixed "
+"elements will keep from the top of the window."
+msgstr ""
+"Araç sabitlendiğinde üst dolguyu piksel cinsinden ayarlayın. Bu sabit "
+"araçları pencerenin üst kısmından uzak tutacağı mesafedir."
+
+#: fixed-sticky-widget.php:90
+msgid "Gap"
+msgstr "Boşluk"
+
+#: fixed-sticky-widget.php:92
+msgid "Set the gap in pixels between the widget and the footer or stopper."
+msgstr ""
+"Araç ile altbilgi veya durdurucu arasındaki boşluğu piksel cinsinden "
+"ayarlayın."
+
+#: fixed-sticky-widget.php:96
+msgid "Enable on Mobile"
+msgstr "Mobil Cihazlarda Etkinleştir"
+
+#: fixed-sticky-widget.php:98
+msgid "Enable the sticky widget functionality on mobile devices."
+msgstr "Mobil cihazlarda yapışkan araç işlevini etkinleştirin."
+
+#: fixed-sticky-widget.php:103
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: fixed-sticky-widget.php:106
+msgid ""
+"The users who are using cache plugins, please remember to clear the cache "
+"after making changes on this setting screen."
+msgstr ""
+"Önbellek eklentileri kullanan kullanıcılar, lütfen bu ayar ekranında "
+"değişiklik yaptıktan sonra önbelleği temizlemeyi unutmayın."
